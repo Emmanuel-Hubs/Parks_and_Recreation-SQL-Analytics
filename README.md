@@ -12,7 +12,7 @@ SQL-based employee data analysis and reporting project using MYSQL and Parks_and
 This is my first SQL project, created to demonstrate my SQL skills using the fictional Parks and Recreation dataset popularized by Alex The Analyst. The dataset simulates a real-world employee management system containing employee demographics, salary information, and department data.
 The goal of this project was to practice writing SQL queries, working with relational databases, and performing basic data analysis tasks commonly used in business intelligence and data analytics roles.
 
--------
+------
 
 **Objectives**
 ----
