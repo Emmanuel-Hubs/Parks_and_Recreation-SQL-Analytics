@@ -1,2 +1,12 @@
-🏛️ ##Parks and Recreation SQL Analysis Project
-📊 ##Dataset Description 
+ #Parks and Recreation SQL Analysis
+
+
+#Dataset Overview
+
+This projects uses a fictional parks and recreation employee database designed for SQL learning and data anaysis practice 
+The dataset consists of three main tables 
+
+#1. Employee_demographics 
+Contains employee personal and demographic information.
+
+
