@@ -42,7 +42,6 @@ The project uses a fictional Parks and Recreation employee dataset containing in
 * Employee salaries
 * Department information
 
------
  
 **SQL Concepts Practiced**
 ------
@@ -67,31 +66,24 @@ Some of the SQL concepts explored in this project include:
 * Stored procedures 
 * Triggers and events (DELIMETER) 
 
-------
 
 **Example Of Business Questions Answered**
  -------
 
 Example Business Questions Answered
-	•	Which employees earn the highest salaries?
-	•	Which departments have the most employees?
-	•	What is the average salary by department?
-	•	Which employees meet specific filtering conditions?
-	•	How can employee and salary data be combined for analysis?
-
- --------
+•	Which employees earn the highest salaries?
+•	Which departments have the most employees?
+•	What is the average salary by department?
+•	Which employees meet specific filtering conditions?
+•	How can employee and salary data be combined for analysis?
 
 **Project Structure**
 -------
+* Dataset 
+* Read.me
+* SQL Analysis
 
-Parks-and-Recreation-SQL-Project/
-│
-├── SQL Scripts/
-├── Dataset/
-├── Screenshots/
-└── README.md
  
- ---------
 
 **Key Learnings**
 ----------
